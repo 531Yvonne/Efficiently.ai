@@ -4,10 +4,9 @@ import csv
 import json
 
 st.title("💬 Chatbot")
-st.caption("🚀 A streamlit chatbot powered by OpenAI LLM")
+st.caption("🚀 A streamlit chatbot powered by OpenAI")
 
 with st.sidebar:
-
     openai_api_key = st.text_input(
         "Add Your OpenAI API Key", key="chatbot_api_key", type="password")
 
