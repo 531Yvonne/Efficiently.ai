@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Salary,HireDate
+101,John,Doe,Engineering,90000,2018-03-15
+102,Jane,Smith,Marketing,80000,2019-05-20
+103,Bob,Johnson,Finance,95000,2017-11-10
+104,Alice,Williams,Engineering,85000,2020-02-28
+105,Charlie,Brown,HR,75000,2016-09-12
+106,Emily,Miller,Marketing,92000,2018-07-03
+107,David,Jones,Finance,88000,2019-12-05
+108,Susan,White,HR,78000,2021-04-18
+109,Michael,Clark,Engineering,87000,2017-06-22
+110,Sophia,Lee,IT,91000,2020-09-08

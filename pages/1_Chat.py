@@ -67,7 +67,7 @@ if "messages" not in st.session_state:
     st.session_state["messages"] = [
         {"role": "assistant",
          "content": "How can I help you?"},
-        {"role": "system", 
+        {"role": "system",
          "content": '''You are a professional assistant designed to provide
              accurate information and support. Process questions step by step,
              double check whether conditions are satisfied, and provide
@@ -87,9 +87,10 @@ if prompt := st.chat_input():
             {"role": "user",
              "content": f"{prompt}, response_language={response_language}"})
     # Add Moderation Layer for Responsible AI purpose
-    screening_result = moderate_text(openai.api_key, prompt)
+    screening_result = moderate_text(prompt)
     if screening_result["flag"]:
-        msg = f"Unable to finish your request. Your request contains: {screening_result['content']} content"
+        msg = f'''Unable to finish your request.
+        Your request contains: {screening_result['content']} content'''
         st.chat_message("assistant").write(msg)
         st.session_state.messages.append({"role": "assistant", "content": msg})
     else:
