@@ -6,7 +6,3 @@ unstructured[all-docs]
 yt_dlp
 pydub
 pandas
-dotenv
-requests
-dotenv
-os
