@@ -16,13 +16,13 @@ Try Efficiently.ai at streamlit xxxxx (deployment link to update)
 
 ## Snapshot
 
-<img src="./app_snapshots/home.png" alt="Home" width="200"/>
-<img src="./app_snapshots/chat.png" alt="Chat" width="200"/>
-<img src="./app_snapshots/file.png" alt="File" width="200"/>
-<img src="./app_snapshots/video.png" alt="Video" width="200"/>
-<img src="./app_snapshots/web.png" alt="Web" width="200"/>
-<img src="./app_snapshots/chart.png" alt="Chart" width="200"/>
-<img src="./app_snapshots/about.png" alt="About" width="200"/>
+<img src="./app_snapshots/home.png" alt="Home" width="300"/>
+<img src="./app_snapshots/chat.png" alt="Chat" width="300"/>
+<img src="./app_snapshots/file.png" alt="File" width="300"/>
+<img src="./app_snapshots/video.png" alt="Video" width="300"/>
+<img src="./app_snapshots/web.png" alt="Web" width="300"/>
+<img src="./app_snapshots/chart.png" alt="Chart" width="300"/>
+<img src="./app_snapshots/about.png" alt="About" width="300"/>
 
 # Technical Details
 
