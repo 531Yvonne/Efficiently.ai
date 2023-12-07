@@ -10,10 +10,6 @@ A Generative AI Application to Boost Your Work Efficiency
 
 [![Watch the video](https://img.youtube.com/vi/1pJK9nz3gFU/0.jpg)](https://youtu.be/1pJK9nz3gFU)
 
-## Live Deployment
-
-Try Efficiently.ai at streamlit xxxxx (deployment link to update)
-
 ## Snapshot
 
 <img src="./app_snapshots/home.png" alt="Home" width="300"/>
