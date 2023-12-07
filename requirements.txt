@@ -6,7 +6,6 @@ unstructured[all-docs]
 yt_dlp
 pydub
 pandas
-json
 dotenv
 requests
 dotenv
